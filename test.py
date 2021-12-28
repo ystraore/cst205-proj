@@ -1,7 +1,7 @@
 
 # CST 205 Multimedia Design & Programing 
 # Group 808
-# Date: December 2nd 2021
+# Date: December 2, 2021
 # Abstract:
 # Authors: Yssa Traore, Shane Cromer, Ivan Martinez, and Tuan Nguyen 
 
